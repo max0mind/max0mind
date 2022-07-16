@@ -6,6 +6,8 @@ I'm learning Python. (Actually junior developer)
 
 Currently making Python stuff (games, bots).
 
+![stats](https://github-readme-stats.vercel.app/api?username=max0mind&show_icons=true&theme=dark)
+
 ### My projects
 
 * Will be in future
@@ -17,4 +19,4 @@ Currently making Python stuff (games, bots).
 
 ### Statistic
 
-![stats](https://github-readme-stats.vercel.app/api?username=max0mind&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
